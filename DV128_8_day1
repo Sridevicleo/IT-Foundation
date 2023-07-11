@@ -1,0 +1,64 @@
+DV128_8_SAS On Mobile Device Configuration
+Self-Assessment Sheet
+
+What is Microsoft cloud-based services called?
+Microsoft 365
+
+What is apples cloud service called?
+iCloud
+
+What is an advantage to using iCloud?
+Ans
+
+On iCloud are you able to select what you want synchronized?
+yes
+
+ Is iCloud used for backups?
+     yes
+
+Can you use iCloud with Microsoft?
+no
+
+There are limited synchronization options for iCloud. True or False?
+no. the synchronization options in icloud are extensive.
+
+If you lose your iPhone, how can you access your data and is it backed up?
+The user can authenticate on a different device with their icloud credentials and download the backed up data.
+
+With Microsoft 365, you can only synchronize the email between your mobile device and other email systems you use. True or False?
+False. you can synchronize contacts, calendars, reminders and notes.
+
+ What is outlook a part of?
+Microsoft 365 cloud service.
+
+ Can you sync your calendars across all devices using Microsoft 365?
+Yes
+
+ If you’re running your own exchange servers, what service are you using?
+Microsoft outlook or microsoft exchange.
+( This is the same if you’re using Microsoft’s Hotmail or Microsoft’s cloud-based Outlook.com service. This is one that requires you to authenticate to Microsoft 365, and this is often just a username and a password. Once you add that authentication, you then gain access to your email settings, and you’re able to enable and disable different items that you want to synchronize with that service.
+)
+
+Is there a way if you create a note on your mobile phone, the note automatically appears on Microsoft 365 on your desktop and vice versa?
+yes . this can be configured with data synchronization options.
+
+ To connect to iCloud, you would use your iCloud.
+username and password.
+
+Where can you access your iCloud settings?
+Under settings on Apple devices.
+
+ There are extensive configuration settings for iCloud, but you can’t control exactly what data is synchronized. True or False?
+False. you can control what data should be synced.
+
+ You can use iCloud to sync your emails across all your IOS devices. True or False?
+True.
+
+ Can configure the system to allow cellular transfers or only allow transfers over faster 802.11 networks?
+icloud configuration settings.
+
+You can enable and disable different network connections or control the use of exactly how you download when you’re on a cellular network. True or False?
+True
+
+ Using cellular networks, you can’t download files. True and False and explain?
+ False. The files can be downloaded. The configurations allows us to control the files that can be downloaded.
