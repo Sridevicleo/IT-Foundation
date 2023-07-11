@@ -1,0 +1,46 @@
+DV128_9_SAS On Introduction to IP
+Self -Assessment Sheet
+
+1. What is Internet Protocol (IP)?
+IP is the method or protocol (set of rules) by which data is transferred over the internet. Every device in the network will have an IP address.
+
+2. What is the meaning of Encapsulation?
+Encapsulation refers to bundling of data with mechanisms of methods that operate on that data. I may also refer to limiting of direct access to some of the data such as objects components.
+
+3. What does TCP stand for?
+Transmission Control Protocol.
+4. How does TCP (Transmission Control Protocol) work?
+Transmission control Protocol is one of the  protocol by which the data is transferred from one network to another.
+ It is encapsulated within the IP.
+It is connection oriented protocol. Which means it opens the connection from one device to another and closes it when the data transfer is complete.
+It has a built in system to ensure and verify that the data that has been sent is being received by the recipient device. TCP can manage a retransmission process so that if any data is not received by the destination, that information can be resent from the source.
+TCP also has a flow control mechanism to alter and control the rate at which the data is being transferred.
+5. What does UDP stand for?
+User Datagram Protocol
+
+6. How does UDP (User Datagram Protocol) work?
+UDB is non-connection oriented. Which means unlike TCP, UDP does not establish connection to the recipient device to acknowledge  data receipt. It only sends the data traffic across the network. UDP is mostly used for real time communication (voip devices)
+7. What is OSI Layer 4?
+(OSI - Open Systems Interconnection)
+OSI layer 4 is the Transport layer which is  the 4th layer of the 7 layers of OSI Model.
+8. What does OSI Layer 4 - Transport Layer do?
+The OSI lay 4 defines  protocols for  end-to-end communication services for applications.  It provides services such as connection-oriented communication, reliability, flow control, and multiplexing.
+9. What is Multiplexing?
+The ability to have many different applications on the system, communicating to separate servers simultaneously is called multiplexing. This is enabled by TCP and UDP.
+10. What is a port?
+A port is a jack or a socket to plug into.
+11. What is a Port Number?
+The additional information used with TCP and UDP network protocols  to determine which application on the server should transmit or  receive the data.
+
+12. What does IPv4 Socket consist of?
+
+13. What are Non-Ephemeral Ports?
+Non Ephemeral ports are the permanent (non-temporary) port numbers used  by servers that provide a  specific service. Eg. Every web server we communicate with will use tcp port 80(HTTP) and tcp port 443(HTTPS), port numbers everytime, so that we know exactly where that service is located on that IP address.
+
+14. What are Ephemeral Ports?
+The temporary port numbers used on the device associated with a particular traffic flow while communicating with the server are called Ephemeral PortsThese are usually temporary port numbers, and that will no longer be in use once the traffic flow is over. And commonly an operating system will assign a port number between 1,024 and 65,535. But this is often configured in the operating system itself and it’s assigned in real time as you’re using these applications.
+
+
+
+15. What is Data Transport Analogy?
+16. What is Network Topology?

@@ -1,0 +1,44 @@
+DV128_10_PAS ON Common Network Ports
+Self-Assessment Sheet
+
+1. What is Port 20 (TCP)?
+Port 20 is the port number used by FTP for data transfers from one device to another.
+2. What is Port 21 (TCP)?
+Port 21 is the port number used by FTP to control data transfer.
+3. What is FTP (File Transfer Protocol)?
+FTP (File Transfer protocol ) is a network protocol used to transfer files from one device to another. FTP uses 2 port numbers . TCP port 20 used for data transfers and TCP port 21 used to control data transfers.
+4. What is Port 22 (TCP)?
+TCP port 22 is a port number used by SSH to establish connections to a remote device.
+5. What is SSH (Secure Shell)?
+Secure Shell , AKA Secure Socket Shell is a network protocol used to access a remote device. It  has a text based frot end interface (terminal or command line) to access and communicates with the remote device thru TCP port 22. Secure Shell provides strong password authentication and public key authentication, as well as encrypted data communications between two computers connecting over an open network, such as the internet.
+6. What is Port 23 (TCP)?
+Port 23 is a port number used by Telnet (Telecommunication network) to connect to a remote device using a text based front end  interface / console.
+7. What is Telnet?
+Telnet or Telecommunication network is a network protocol used to connect to a remote device by using a text based front end interface or console. But unlike SSH, all of the communication between this Telnet front end and the Telnet server is all sent in the clear, or not encrypted. This means that anyone who might be capturing packets between these two devices will see everything that you’re sending over this link, including usernames, passwords, and everything else, and hence rendered unsafe for communication.
+
+8. What is Port 25 (TCP)?
+Port 25 is the port number used by SMTP protocol used by email servers for communication.
+9. What is Simple Mail Transfer Protocol (SMTP)?
+Simple Mail Transfer protocol is a network protocol used by email servers for communication with eachother. It uses TCP port 25. Not only is SMTP used to communicate between mail servers, but it’s also used for our mail clients to send  mail to a mail server.
+10. What is Port 53 (UDP)?
+Port 53 (UDP) is the port number used by the DNS to connect the system with the DNS server.
+11. What is DNS (Domain Name System)?
+DNS (Domain name System) is a system that uses the fully qualified domain name fo the website to get the IP address, that browsers use to load the pages.It uses port 53 to connect the system with the DNS server.
+12. What is Port 80 (TCP)?
+TCP port 80 is the port number used by HTTP protocol used by browsers to connect to the web server.
+13. What is Port 443 (TCP)?
+TCP port 443 is a port number used by HTTPS protocol, used by browsers to connect to the web server communicated over a secure and encrypted connection.
+14. What is HTTP (Hypertext Transfer Protocol)?
+HTTP is a protocol used by web browsers to connect to web server. this uses tcp port 80 and is not encrypted.
+15. What is HTTPS (Hypertext Transfer Protocol Secure)?
+Https is a protocol used by web browsers to connect to the web server over a secure and encryption connection. This typically uses TCP port 443.
+16. Port 110 (TCP)?
+Port 110 is a port number used by POP3 (Post office protocol version 3), used for receiving emails.
+17. What is Port 143 (TCP)?
+IT is a port number used by IMAP4 (Internet Message Access protocol version 4)
+18. POP and IMAP?
+POP and IMAP are network protocols that are used to receive email messages. They use port numbers tcp port 110 and tcp port 143 respectively.
+19. What is POP3 (Post Office Protocol version 3)?
+ Post office protocol version 3 is a network protocol that is used to receive emails. it uses tcp port 110. POP3 was designed to retrieve email messages to a single email client only and does not support multiple clients, limiting the email inbox access only to 1 device.
+20. What is IMAP (Internet Message Access Protocol)?
+IMAP version 4 is a network protocol used to receive emails. it uses tcp port 143 and supports multiple email clients by synchronizing mail boxes from several email clients.
