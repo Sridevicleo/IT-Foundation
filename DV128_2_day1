@@ -1,9 +1,8 @@
-This is my first sample commit
 DV128_2_PAS On Laptop Hardware
 
 
 
-What does it mean to be modular? 
+What does it mean to be modular?
 Building the components in modules so that only the required component may be accessed for removal and attachment when required, without having to dismantle the entire unit.
 
 What type of battery technology do we use today?
@@ -15,7 +14,7 @@ Everytime the battery is charged, it diminishes the battery capacity a bit, that
 What is one advantage to using a modular battery configuration?
 If the capacity of one battery runs out, it can be easily replaced with another, fully charged battery.
 
-True or False? lithium-ion batteries are designed to be 80 percent charged. 
+True or False? lithium-ion batteries are designed to be 80 percent charged.
 False. They are designed to be fully charged
 
 True or False? In lithium-ion batteries, discharging some of the battery and charging it back up again you have to worry about causing a effect on memory or limiting the amount of capacity that battery might have.
@@ -25,10 +24,10 @@ Where are all the programs that are executing in your operating system executing
 Computer memory.
 
 What does SO-DIMM stand for?
-Small Outline Dual Inline Memory Module 
+Small Outline Dual Inline Memory Module
 
 Where is SO-DIMM usually used?
-Laptops and Mobile devices. in the memory slot of the laptop.  
+Laptops and Mobile devices. in the memory slot of the laptop.
 
  Are you able to change/upgrade memory for a device that has it soldered to the motherboard?
 It cannot be done unless the entire motherboard is replaced; This is become an expensive affair where only the memory is required to be upgraded.
@@ -36,45 +35,37 @@ It cannot be done unless the entire motherboard is replaced; This is become an e
  In what form do older laptops have storage in?
 
 Magnetic disc or Hard Disc Drives. These are physical spinning drives that have the form factor of 2 to 2.5 inches.
- 
+
 
  In what form do new laptops have storage?
-SSD (Solid State Drive) or M.2 Interface, which is much smaller than the SSD and can hold more storage in smaller space. 
+SSD (Solid State Drive) or M.2 Interface, which is much smaller than the SSD and can hold more storage in smaller space.
 The Form factor of SSD is similar to that of HDD , which is 2 to 2.5 inches, which make it easier to replace HDD with SSD, by just unplugging the HDD and connect SSD to the same interface and form factor.
 
 
  What is one advantage of SSD?
-Improved Speed and performance.  
+Improved Speed and performance.
 
  What is one way you can migrate from a hard drive to an SSD
-Ans  
+Ans
 One way to migrate from hard drive to SSD is to install an operating system on the SSD and simply move over a user’s documents and any applications that they might need.
 
  What are some types of authentications?
-Password and Biometrics ( Face identification and finger print scanner).  
+Password and Biometrics ( Face identification and finger print scanner).
 
 What is one disadvantage of laptop keyboard?
-1.They are fragile  
-2. Limitation with space and size of the keyboard, as the laptops are getting smaller. Hence, multiple functions are integrated within the same key.  
+1.They are fragile
+2. Limitation with space and size of the keyboard, as the laptops are getting smaller. Hence, multiple functions are integrated within the same key.
 
  What is NFC?
-Near Field Communication  
+Near Field Communication
 
 What does NFC allow you to do?
 NFC allows the user to gain access and authenticate with the laptop via watch or mobile , without having to physically interact with the laptop device that is located very close to the authenticating device.
-  
+
 
  Is m.2 a modular setup?
-yes. it can be plugged into and unplugged from the slot.  
+yes. it can be plugged into and unplugged from the slot.
 
 M.2 interface on an SSD drive is larger than traditional SATA-connected SSD? True or False?
 
-False. It is much smaller than the traditional SATA connected SSD.  
-
-
-
-
-
-
-
-
+False. It is much smaller than the traditional SATA connected SSD.
