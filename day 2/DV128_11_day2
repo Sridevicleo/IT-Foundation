@@ -1,0 +1,53 @@
+DV128_11_PAS ON Network Devices
+Self-Assessment Sheet
+
+1. What is a Router?
+A router is a device that forwards traffic between different IP subnets. The router uses the IP address that’s within the packet to determine what the next hop might be on its way to the final destination. Because this routing takes place at layer 3 of the OSI model, we often refer to these as layer 3 devices.
+
+2. What is a Switch?
+A switch is a common infrastructure device. A switch determines where traffic should be forwarded based on the destination MAC address inside of that time frame. This is also a device that’s able to forward traffic at very high rates of speed because a lot of those forwarding decisions are based in the hardware of the device itself.
+
+
+3. What is an Unmanaged Switch?
+An unmanaged switch is a switch typically used at home, that does not provide additional functionality, except connecting all the devices together. It does not offer configuration options when the switch is powered. An unmanaged switch has no SNMP capabilities.Hence, there would be no way to query that device for performance information
+
+4. What is a Managed Switch?
+A managed switch offers configurations options when powered. Typically used in an enterprise, where it is required to constantly monitor and confirm that the device is working as expected. The managed switch offers the following benefits -
+ Manages switch allows you to configure different interfaces to be on completely different IP subnets or what we call VLANs or Virtual LANs.
+ These switches might also have configuration options to prioritize traffic. So you may be able to set Voiceover IP traffic to have a higher priority than file transfer traffic.
+Offers  Simple Network Management Protocol or SNMP capabilities that enables network administrators  to query devices on their network to check for performance or any types of errors.
+
+5. What is a Bridge?
+	A bridge is an access point that provides wireless connectivity for a local network. It provides a link between the wireless network and wired network.
+( It’s simply bridging people on the wireless network to the people that are on the wired network. An access point makes forwarding decisions based on the destination MAC address, which is identical to the way that a switch forwards information. The access point examines the destination MAC address and determines if that MAC address is on the wireless network or if it should send that information to the wired network.
+
+6. What is a Patch Panel?
+A Patch panel is a device to which all the systems on the floor or the building is connected to thru the cables. Once the device is connected to the patch panel thru a cable, the connection is almost permanent is is not changed or altered when the person	using that device changes his workstation.
+On the other side of that patch panel can be connectors like RJ45 connectors. And we would then extend those RJ45 connectors to interfaces that may be on a switch inside of that wiring closet. This allows us to connect folks that are on their desk all the way back to the main infrastructure of a particular network. There may be times when somebody is moving between desks or perhaps they have a new person that’s hired who’s sitting in a new desk. In those scenarios, you may have to move someone from a connection on one switch to a connection on another switch.
+If this was one single cable, then you would have to start moving cables inside of your wiring closet to try to properly place where they should be connected. But with the patch panel in place, you simply disconnect from one switch and you connect that particular port on the patch panel to a different switch. This is a much shorter cable. It’s a cable that’s already labeled, so you know exactly which desk it’s going to. And it’s a change that you can make relatively quickly.
+.
+7. What is a Firewall?
+A firewall is a network security device that allows or blocks traffic through the network based on IP addresses and port numbers.
+Some firewalls can also act as an endpoint for an encrypted tunnel, which means that you can connect two sites together across a public network like the internet, but all of the traffic between those sites is encrypted.
+Some firewalls can also act as a proxy. ie, if someone is browsing a site on the internet, the firewall will stop that communication. It will perform the browsing for the user, receive the response from that device over the internet, examine and make sure that nothing inside of that traffic may be dangerous or malicious, and then send the results of that query back to the user.
+Most of the time,  the firewall is the device that is connected directly to the internet, and so using that also as a router allows you additional functionality for forwarding traffic.
+
+8. What is a Hub?
+A hub is a device that was used to connect all the devices on the network. It is referred to as  multi port repeater, because any data that’s going into one interface on the hub will automatically be copied and sent to all of the other interfaces on this hub. A hub operates at  10 megabit and 100 megabit speeds only, and are inefficient and outdated.
+9. What is a Cable Modem?
+A cable modem is a device that sends and receives internet signals that allows us to communicate over  broadband communication because there are multiple frequencies of traffic being used over a single wire. This means that we can have video signals for our television. We can connect our phone lines into this cable modem. And can also be used for internet data. IT uses the same cable for television and for the internet.
+10. What is a DSL Modem?
+A DSL modem is a device that receives internet signals provided by a telephone company. This is technically an ADSL modem, which stands for Asymmetric Digital Subscriber Line, and it uses the same telephone lines that we’ve always used for our analog telephone.
+The reason that DSL is asymmetric is because the speeds for downloading is usually much faster than the speeds for uploading. There’s also often a distance limitation with DSL before the signal gets so weak that you’re not able to receive any of the data.
+11. What is ONT?
+	ONT stands for Optical Network Terminal. It is a device used in fiber-optic communication networks to convert optical signals into electrical signals that can be understood by customer premises equipment (CPE), such as routers, switches, or telephones.
+12. What is Network Interface Card (NIC)?
+A Network Interface Card (NIC), also known as a network adapter or network card, is a hardware component that enables a computer or device to connect to a network. It provides the physical interface between the computer and the network, allowing data to be transmitted and received over the network.
+13. What is a Wireless Access Point (WAP)?
+A wireless access point (WAP) is a networking device that allows wireless devices to connect to a wired network. It serves as a central communication hub for wireless devices, enabling them to access the network and the internet.
+14. What is a Wireless LAN Controller?
+A wireless LAN controller (WLC) is a network device that manages and controls multiple wireless access points (APs) in a wireless local area network (WLAN). It provides centralized management and coordination for the APs, ensuring seamless and efficient operation of the wireless network.
+Wireless LAN controllers enhance the management, performance, security, and scalability of WLAN deployments. They provide centralized control, simplify administration, and enable seamless connectivity and mobility within the wireless network.
+15. What is a Repeater?
+A repeater is a network device used to extend the range or coverage of a wired or wireless network by regenerating or amplifying signals. It receives a weak or degraded signal, cleans it up, and retransmits it, effectively extending the network's reach.
+Repeaters are simple devices that can help extend the reach of a network by amplifying signals and overcoming signal degradation. They are effective in improving coverage and ensuring reliable connectivity in situations where distance or obstacles pose challenges to signal transmission.

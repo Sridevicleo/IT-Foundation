@@ -1,0 +1,90 @@
+
+
+DV128_16_PAS On Assigning IP Addresses
+Self-Assessment Sheet
+1. How to assign IPv4 IP addresses for Private IP?
+In IPv4 network, the IP addresses are assigned by DHCP (Dynamic Host Configuration Protocol)
+2. What is the process of DHCP (Dynamic Host Configuration Protocol)?
+DHCP assigns the IP address to the system in four steps referred to as D-O-R-A.
+Step 1,  D  - DISCOVER ,  where our devices will try to locate a DHCP server that’s on our local network.
+Step 2,  O - OFFER,  where a DHCP server will offer an IP address to our device.
+Step 3, R - REQUEST, The device will then look at the one or many offers that we receive, pick one of those offers, and then request that IP address from the offering DHCP server.
+Step 4 , A - ACKNOWLEDGE,  the DHCP server will acknowledge that offer and provide the system with all of the IP configuration settings that it needs.
+3. What is the result of DHCP (Dynamic Host Configuration Protocol)?
+The end result of DHCP protocol is that the IP addresses are assigned to the devices in the network.
+4. Features of Static IP address?
+A static IP address is a fixed, unchanging IP address assigned to a device or network. It is manually configured and doesn't change unless modified by the network administrator.
+Static IP addresses provide stability and consistency in network communications, making them useful for specific applications and network setups. However, they may require manual configuration and involve additional administrative overhead compared to dynamically assigned IP addresses.
+5. Features of Dynamic IP address?
+A dynamic IP address is an IP address that is assigned to a device or network dynamically, typically by a DHCP (Dynamic Host Configuration Protocol) server. The dynamic IP address is temporary and subject to change.
+Dynamic IP addresses are assigned automatically by a DHCP server when a device connects to a network. The DHCP server leases an available IP address from a pool of addresses and assigns it to the device for a specific period of time.
+which can range from a few hours to several days or more. When the lease period expires, the device may request a lease renewal and receive the same IP address or be assigned a different one.
+Dynamic IP addressing is commonly used in home networks, small business networks, and other environments where IP addresses are allocated dynamically and don't require a persistent identifier.
+6. What is Automatic Private IP Address (APIPA)?
+APIPA address stands for Automatic Private IP Addressing address. This is the IP address  that is assigned to the system in the absence of DHCP server, but  is configured to obtain DHCP address. This is sometimes referred to as a link-local address, because any device that’s configured with an APIPA address range can only communicate to other devices on the local network. If your device is assigned an APIPA address, it can’t communicate outside of your local network.
+
+7. What is unicast addresses?
+Unicast address refers to a type of IP address used for one-to-one communication between a sender and a single recipient device on a network. It is a unique address assigned to a specific device, allowing direct communication between that device and another device or destination on the network.
+Here are some key points about unicast addresses:
+One-to-One Communication: Unicast addresses enable point-to-point communication between a sender and a single recipient device. When a device sends data to a unicast address, it is intended for that specific device.
+
+
+Unique Identifier: Each device on a network requires a unique unicast IP address. This allows packets to be directed specifically to the intended recipient, distinguishing it from other devices on the network.
+
+
+Address Classes: Unicast addresses are defined within specific address classes, such as IPv4 or IPv6. In IPv4, unicast addresses are divided into three main classes: Class A, Class B, and Class C, based on the size of the network and the number of available addresses.
+Routing and Forwarding: Routers and network devices use unicast addresses to forward packets across networks. They examine the destination IP address in each packet to determine the appropriate next-hop router or destination device.
+Examples: In IPv4, examples of unicast addresses include addresses like 192.168.0.1 or 10.0.0.1. In IPv6, unicast addresses are represented using hexadecimal notation, such as 2001:db8::1.
+
+
+Subnetting: Unicast addresses are typically associated with specific network subnets. Subnetting allows for efficient use of IP addresses by dividing larger networks into smaller subnetworks, each with its own range of unicast addresses.
+Unicast addressing is the most common form of addressing in IP networks. It enables direct communication between individual devices and supports various network protocols and applications. Unicast addresses play a vital role in enabling reliable and targeted communication across networks.
+8. What is multicast addresses?
+A multicast address is a type of IP address used for one-to-many communication on a network. It allows a sender to transmit data to a group of interested recipients simultaneously. Devices that are interested in receiving multicast traffic can join a multicast group associated with a specific multicast address.
+Here are some key points about multicast addresses:
+One-to-Many Communication: Multicast addresses enable one-to-many communication, where a single sender can transmit data to multiple recipients simultaneously. This is in contrast to unicast addresses, which facilitate one-to-one communication.
+
+
+Group Membership: Devices interested in receiving multicast traffic can join a multicast group associated with a specific multicast address. By joining the group, the device indicates its interest in receiving multicast packets sent to that address.
+
+
+Address Range: Multicast addresses are defined within specific address ranges in both IPv4 and IPv6. In IPv4, multicast addresses range from 224.0.0.0 to 239.255.255.255, while in IPv6, they use a specific prefix (FF00::/8).
+
+
+Multicast Routing: Multicast routing protocols are used to manage the distribution of multicast packets across networks. These protocols help ensure that multicast traffic reaches all interested recipients while minimizing network bandwidth usage.
+
+
+Multicast Applications: Multicast is commonly used in applications where one-to-many communication is essential, such as multimedia streaming, video conferencing, IPTV (Internet Protocol Television), and real-time data distribution.
+
+
+Time-Saving and Bandwidth-Efficient: Multicast is more bandwidth-efficient than sending unicast packets to each individual recipient separately. By transmitting data once to a multicast address, the network conserves bandwidth and reduces the load on both the sender and the network infrastructure.
+
+
+Multicast Group Management: The Internet Group Management Protocol (IGMP) is used in IPv4 networks to manage group membership and enable devices to join or leave multicast groups. In IPv6, multicast group management is handled by the Multicast Listener Discovery (MLD) protocol.
+By using multicast addresses, network applications can efficiently distribute data to multiple recipients, reducing network congestion and improving scalability. Multicast addresses and protocols play a crucial role in supporting real-time multimedia applications and other scenarios where simultaneous delivery of data to multiple recipients is required.
+
+9. What is anycast addresses?
+An anycast address is a unique type of IP address that is assigned to multiple devices or network interfaces within a network. Unlike unicast addresses that are assigned to individual devices, anycast addresses are shared among multiple devices in different locations. When a packet is sent to an anycast address, it is routed to the nearest available device or network interface with that address.
+Here are some key points about anycast addresses:
+One-to-Nearest Communication: Anycast addresses enable one-to-nearest communication, where a sender transmits data to the nearest available device or network interface that has the anycast address. It allows for efficient routing and load balancing across multiple locations.
+
+
+Geographic Proximity: Anycast routing protocols use network infrastructure and routing algorithms to direct traffic to the nearest device or network interface that shares the anycast address. This routing is typically based on the geographic proximity of the sender and the available anycast nodes.
+
+
+Redundancy and Failover: Anycast addresses provide redundancy and failover capabilities. If one anycast node becomes unavailable, the routing infrastructure automatically redirects traffic to the next nearest available node with the same anycast address, ensuring continuous service availability.
+
+
+Load Balancing: Anycast addresses can be used for load balancing purposes. By distributing traffic among multiple anycast nodes, network resources can be efficiently utilized, improving performance and reducing congestion.
+
+
+Application Examples: Anycast addressing is commonly used in various applications such as content delivery networks (CDNs), Domain Name System (DNS) infrastructure, distributed server networks, and distributed denial-of-service (DDoS) mitigation systems.
+
+
+IP Protocol Support: Anycast addresses can be used with both IPv4 and IPv6 protocols. However, the implementation and support for anycast routing may vary depending on the specific network and infrastructure.
+It's important to note that anycast addresses are assigned and managed by network operators and require coordination and configuration within the network infrastructure. The routing protocols and mechanisms used to route packets to the nearest anycast node depend on the network setup and the specific anycast addressing scheme employed.
+Anycast addressing provides a flexible and scalable approach for distributing network traffic and ensuring efficient service delivery. By leveraging anycast addresses, organizations can enhance redundancy, improve performance, and optimize resource utilization in their network infrastructure.
+
+10. What is BootP?
+BootP or Bootstrap Protocol was a traditional protocol created to automatically assign IP addresses to devices.
+ BootP could not  assign all of the different configuration settings that was needed. There were still configurations that needed to be done manually. And BOOTP had no idea when a device would leave the network, so that it could use that IP address for another device later on.

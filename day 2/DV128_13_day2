@@ -1,0 +1,55 @@
+
+DV128_13_PAS On Wireless Network Standards
+Self-Assessment Sheet
+
+1. What is 802.11a speed?
+54 mbps
+
+2. What is 802.11a Frequency & range?
+The 802.11 operates at a frequency of 5 Gigahertz.
+3. What are some other features of 802.11a?
+Since 802.11a operated at a much larger frequency there, it had lesser interference when compared to its immediate upgrade versions  that had lesser frequency, resulting in frequency conflicts from other devices in the vicinity. Hence, this was considered an ideal network for open spaces.
+4. What is 802.11b Speed?
+11 Megabits/sec
+
+5. What is 802.11b Frequency & range?
+2.4 GHz
+
+6. What are some other features of 802.11b?
+Since 802.11b operated at a lower frequency range, the signals tend to bounce off the objects/devices thereby giving a additional distance and range from 802.b network.
+
+7. What is 802.11g Speed?
+54 Mbits/s
+8. What is 802.11g Frequency & range?
+2.4 Ghz
+9. What are some other features of 802.11g?
+802.11 g operates in 2.4 Ghz frequency range.
+it offered a higher speed of 54 mbps
+ 802.11 g standard is backwards compatible with the b standard. That means that we could upgrade our access point to the 802.11g and still continue to use our b devices on the same network.
+10. What is 802.11n Speed?
+150 Mbps
+11. What is 802.11n Frequency & range?
+	802.11n or wifi4 , operated at 2 frequency ranges 2.4 GHz and 5GHz simultaneously.
+12. What are some other features of 802.11n?
+802.11n is also referred to as WiFi4.
+It operated at 2 frequency ranges, ie, at 2.4 GHz and 5GHz simultaneously.
+It offers more bandwidth of 40 MegaHz per individual channel.
+Introduced MIMO (Multiple Input Multiple Output) form of communication. which means  the devices can transfer much more information simultaneously between the end station and the access point.
+maximum throughput of 600 megabits per second
+13. What is 802.11ac Speed?
+867 Mbps
+14. What is 802.11ac Frequency & range?
+5 GHz
+15. What is 802.11ax Speed?
+1201 Mbps
+16. What is 802.11ax Frequency & range?
+802.11ax, also referred to as WiFi6  operates at either five gigahertz frequencies or 2.4 gigahertz frequencies, and on some access points, it operates on  both of those simultaneously. It supported the  bandwidth of 20, 40, 80, and 160 megahertz for people communicating on that wireless network.
+
+17. What is RFID?
+Radio Frequency Identification is a wireless technology that uses radio waves to identify the objects.
+
+18. How does RFID work?
+The RFID enabled devices contains RFID tags, which is a wireless device or “tag” that contains the  information, which can be read through a scanner or sensor without making any physical contact or requiring a line of sight.
+The RFID tags may or may not require a powersource.
+ The RFID uses radar technology. which means, the signal  that is being captured by the antenna is converted to power  and added to the chip that effectively powers and allows the RFID tag  to transmit back the response signals.
+The RFID tags that are powered by a battery is called Active RFID or Powered RFID.

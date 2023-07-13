@@ -1,0 +1,40 @@
+
+12_SAS ON Software Defined Networking
+Self-Assessment Sheet
+
+1. What is Software Defined Networking (SDN)?
+Software Defined Networking is a process of managing networking platforms over cloud computing. The features and functions of the physical networking devices are virtualised to create a  software platform for network management solutions that runs in the cloud.
+
+2. What are Computer Networking Planes?
+The three layers into which the networking devices functionality is  separated and virtualised in order to create consistency across all networking components are called the Computer networking planes.
+The three layers are
+ 1. Infrastructure layer / Data plane
+ 2. Control layer/ control plane and
+3. Management Plane.
+
+3. What is Data Plane?
+A data plane, also known as the infrastructure layer is the first layer of SDN that is responsible for forwarding, the trunking, the encrypting, the network address translation, or anything else that needs to occur at that packet level.
+
+4. What is Control Plane?
+The control plane is the part of a network that controls how data packets are forwarded. ie,  how data is sent from one place to another. The references to traffic redirection (forwarding) is contained in the control plane.  Eg.  Routers use various protocols to identify network paths, and they store these paths in routing tables.The process of creating a routing table, for example, is considered part of the control plane.
+ The control plane is tasked with calculating and programming actions for the data plane.
+
+5. What is Management Plane?
+The management plane is a layer where the virtual networking devices are managed. To be able to manage virtual devices, we need to log in or access the device via an API or Application Programming Interface. And all of that access is provided at the application layer or management plane of that device. So when you SSH into a router, when you bring up a graphical front end of a firewall, you’re managing that device from the management plane.
+
+6. What is Software Defined Networking Controller (SDN Controller)?
+A software-defined networking controller is an application in SDN architecture that manages flow control for improved network management and application performance. The SDN controller platform typically runs on a server and uses protocols to tell switches where to send packets.The controller communicates with applications -- such as firewalls or load balancers -- via northbound interfaces.
+
+7. What is Distributed Control Planes?
+A distributed control plane refers to a decentralized approach for managing and controlling network devices and protocols. Traditionally, networks have utilized a centralized control plane, where a single controller or control entity is responsible for making decisions and managing the network's behavior. In contrast, a distributed control plane distributes control and decision-making capabilities across multiple network devices or nodes.
+These devices communicate and collaborate with each other to collectively make decisions, manage network routing, handle failover scenarios, and enforce policies. This distribution of control enables faster decision-making, scalability, fault tolerance, and resilience in network operations.
+
+
+
+8. What is Controller Based Networking?
+Controller-based networking, also known as Software-Defined Networking (SDN), is an architectural approach to networking that separates the control plane from the data plane in network devices. In controller-based networking, a centralized controller oversees and manages the network, while network devices (such as switches and access points) primarily handle data forwarding.
+
+9. What is a Routed Port?
+A routed port refers to a physical or logical interface on a network device, such as a router or a Layer 3 switch, that is specifically configured to operate as a routed interface. Unlike a traditional switch port, which operates at Layer 2 and handles Ethernet frames, a routed port operates at Layer 3 and handles IP packets.
+10. What is OpenFlow?
+OpenFlow (OF) is considered one of the first software-defined networking (SDN) standards. It originally defined the communication protocol in SDN architectures that enabled the SDN controller to directly interact with the forwarding plane of network devices such as switches and routers, both physical and virtual (hypervisor-based), so it can better adapt to changing business requirements.

@@ -1,0 +1,52 @@
+
+DV128_14_PAS On Network Services
+Self-Assessment Sheet
+
+1. What is a Web Server?
+A web server is computer software  that accepts requests via HTTP (the network protocol created to distribute web content) or its secure variant HTTPS.
+2. What is a File Server?
+A file server is a centralized storage device usually with a set of folders that you can use to store all of your information files in the network.
+3. What is Print Server?
+A print server is a device or software application that manages and controls printing activities on a network. Its primary function is to receive print jobs from client computers and send them to the appropriate printer or print queue. The print server acts as an intermediary between client devices and printers, facilitating efficient print job processing and management.
+4. What is a (Domain Name System) DNS Server?
+DNS server or  Domain Name System  server is a  service that’s primarily responsible for converting between fully qualified domain names and IP addresses. It translates human-readable domain names into their corresponding IP addresses. It acts as a directory service that resolves domain names to their associated IP addresses, allowing computers to locate and communicate with specific services or websites on the internet.
+
+5. What is a (Dynamic Host Configuration Protocol) DHCP Server?
+A DHCP server is the software responsible for assigning the IP addresses to the devices on the network.
+
+6. What is a Mail Server?
+The mail server is responsible for sending and receiving mails in the network.
+7. What is a Proxy Server?
+The Proxy server acts as an additional security for internet communications.  The client makes a request to the proxy. The proxy then makes the request to the third party service, receives a response from that service, and then examines the response to make sure nothing within that response is malicious. Once everything is checked and no malicious content found,  that response data is then sent to the end user.
+A proxy acts as an intermediary between a client device and the target server or resource it wants to access. When a client makes a request, the proxy receives and forwards the request on behalf of the client, and then relays the response back to the client.
+8. What is an Authentication Server?
+The authentication server is responsible for centralising all the usernames and passwords into a single service. This is typically used in an enterprise , where there are several services that should be accessed, all of which use identical authentication services. Without the authentication, the user may not log in to access any of the services.
+
+9. What is SIEM (Security Information and Event Management)?
+Security Information and Event Manager is a centralised database where the system logs files are collected and stored using syslog. The logs and messages from various services may be accessed by the administrator from SIEM.
+10. What is Forensic Analysis?
+Forensic analysis, also known as digital forensics, refers to the scientific investigation and analysis of digital evidence to uncover information, investigate incidents, and support legal proceedings. It involves collecting, preserving, and analyzing digital data from computers, networks, mobile devices, or any other digital storage media.
+Forensic analysis plays a vital role in modern investigations, cybersecurity, and legal proceedings. By leveraging digital evidence and specialized techniques, forensic analysts uncover valuable insights and provide crucial support for incident response, criminal investigations, litigation, and maintaining the integrity of digital systems.
+
+
+11. What is Syslog?
+Syslog is a protocol that collects the log files generated from various system activities from services such as the DNS server, the DHCP server, the file server, and others.
+12. What is IDS (Intrusion Detection System)?
+An Intrusion Detection System (IDS) is a security mechanism designed to detect and respond to unauthorized or malicious activities within a computer network or system. It monitors network traffic, system logs, and other data sources to identify suspicious behavior and potential security breaches. IDSs play a crucial role in detecting and mitigating security threats, intrusions, and attacks.
+ IDS systems block known attacks from traversing the network. These devices can also act as bandwidth shapers or quality of service devices so that different applications can be prioritized in real time.
+13. What is IPS(Intrusion Prevention System)?
+Same as IDS.
+14. What is All-in-one security appliance?
+An All-in-one security appliance, also known as the Unified Threat Management Device (UTM) is a device in which the security functions across the network are consolidated into. This is also referred to as Web security gateway.
+These devices can perform many different security functions such as URL filtering or content inspection,  identify malware or even perform a  spam filter on their own. These devices may also have CSU and DSU capabilities allowing the system to connect to WAN.
+ These devices often act as routers and they usually might also have switch interfaces on the back of these devices. And of course, they act also as a firewall so you can allow or disallow certain traffic flows through your network. These devices can often act as intrusion detection systems or intrusion prevention systems, which can block known attacks from traversing the network. These devices can also act as bandwidth shapers or quality of service devices so that different applications can be prioritized in real time. And if you need people to connect to the network that are outside of your facility, you might want to use an encrypted tunnel through a virtual private network.
+
+15. What is Endpoint Management Server?
+An endpoint management server, also known as an endpoint management system or endpoint management platform, is a centralized server-based solution that enables organizations to manage and control their network endpoints, such as desktops, laptops, servers, mobile devices, and Internet of Things (IoT) devices. It provides a unified platform for configuring, monitoring, securing, and maintaining these endpoints across the network.
+
+
+16. What is a Legacy System?
+Legacy systems are the services that have been installed at the datacenter traditionally, which are hard to remove. These services sit in the datacenter for more than a decade which may be running on an older hardware / software. It may be hard to resolve issues that may occur on these services due to unsupported hardware/ software with the newer systems.
+17. What is an Embedded System?
+The embedded systems are built in systems for which the  users normally do not have access to.
+ Instead it is a purpose built device that’s designed for you to only have access to the service or the application that that device provides. This might be something like an alarm system or a door security system or perhaps the time card system that you use to keep track of when people come to work and when they leave. Those devices commonly don’t have an operating system that we can update or even view. Because of that, we rely on the manufacturer of these purpose built systems to be able to provide us with support and ongoing maintenance.

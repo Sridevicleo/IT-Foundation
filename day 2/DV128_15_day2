@@ -1,0 +1,36 @@
+
+15_SAS On IPv4 and IPv6
+Self-Assessment Sheet
+1. How many bits are in an IPv4 address?
+32 bits (4 bytes)
+2. How many bits are in an IPv6 address?
+128 bits (16 bytes)
+3. What are the first 64 bits in an IPv6 address?
+the first 64 bits of ipv6 address is the network address.
+
+4. What are the second 64 bits in an IPv6 address?
+The last 64 bits of ipv6 address is the host address.
+
+5. What is the highest possible digit/number for each byte in an IPv4 address?
+255
+6. What settings to check when troubleshooting IPv4?
+Unique IP address for the device (format 192.168.1.165)
+a subnet mask, usually a format  255.255.255.0.
+The default gateway (the router ip address) incase the device is communicating outside of the local  subnet (format- 192.168.1.1)
+the DNS server settings configuration
+DHCP server
+
+
+7. What is Dynamic Host Configuration Protocol (DHCP)?
+DHCP is a protocol used to assign the dynamic ip addresses to the devices on the network.
+8. What port does a device use to broadcast to DHCP server?
+UDP port 67
+9. What port does DHCP server use to broadcast to a device?
+UDP port 68
+10. What is a subnet mask?
+Subnet masks determine the network ID and host ID of an IP network upon subnetting. In ipv4 network, the subnet mask is a  32-bit value used in conjunction with an IP address to divide a network into subnetworks or subnets.
+They help organize and identify networks, determine IP address ranges for hosts within each subnet, and facilitate efficient routing within a network infrastructure.
+11. What is default gateway?
+The default gateway is th IPaddress of the router that allows the user to communicate with systems outside of the local subnet.
+
+The default gateway, also known as the default router, is a network device or IP address that serves as the forwarding destination for network traffic from devices within a local network that needs to reach destinations outside of the network. It acts as an intermediary or gateway between the local network and external networks, such as the internet.
