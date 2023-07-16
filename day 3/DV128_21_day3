@@ -1,0 +1,77 @@
+21_SAS ON NETWORK TYPES
+
+What is a LAN?
+LAN (Local Area Network) is a group of devices connected over the same network in a short distance physical location, such as a building, home, or distinct geographic area.
+
+
+What are the typical network connections for a LAN?
+Ethernet and 802.11 networks.
+
+ \What is a WAN?
+	WAN is Wide area network where the communications are established between systems geographically far apart.
+Why are the speeds slower on a WAN compared to LAN?
+	BEcause of th distance involved between the two communicating systems, the speeds are slower compared to LAN network.
+
+
+What are some examples of technologies used in a WAN?
+	Some of the Technologies used in WAN for communication are through Fiber in ground, non-terrestrial networking methods, satellite link or point to point serial connections or MPLS (Multiprotocol Label Switching)
+
+
+How are WANs connected?
+Through Fiber in the ground, satellite link or other non-terrestrial networking methods.
+
+
+What is a PAN?
+	Personal Area Network is using several personal devices connected to each other. eg. wireless earbuds, and other personal devices.
+
+
+What are some examples of technologies used in a PAN?
+Some examples of PAN are connecting wireless earbuds via bluetooth,  connecting your mobile phone to the audio system that’s in automobiles, or ability  to integrate other applications, such as your map or your contact list.
+
+
+
+What is one of the most common ways to connect a personal area network?
+PAN can be established using bluetooth, NFC or infrared.
+
+What type of telemetry can be acquired using a personal area network?
+Workout telemetry can be obtained using personal area network when the workout equipment is connected over PAN
+
+What is a Metropolitan Area Network (MAN)?
+The network established among devices connected in a geographic area wider than LAN, but smaller than WAN is Metropolitan Area Network. Eg. Offices of a company located across different locations, but within the same city.
+
+How does the distance of a MAN compare to that of a LAN and WAN?
+MAN is in the middle range of LAN and WAN. ie, it is wider than the LAN, but smaller than WAN.
+
+What is the most common topology for connecting sites in a MAN today?
+MAN commonly uses metro ethernet, where the  ethernet connection is provided  on both sides of the locations and the service provider provides the link between those locations.
+
+What type of organizations tend to use Metropolitan Area Networks?
+The Government organizations  because they already have the right of way to be able to put conduit in the ground and extend fiber connections between all of their remote sites.
+
+
+What is a Storage Area Network (SAN)?
+	The drives used for saving data, extended to the centralized form of saving in the network is called SAN or Storage Area Network.  A SAN is a high speed network that allows us to communicate to a centralized storage facility, usually one with a very large capacity.
+
+
+How is data accessed on a SAN?
+SAN provides block level access, which is very similar to the block level access we have on our local storage devices, which means it’s very efficient to read and write to that SAN.
+
+What is the typical bandwidth requirement for a SAN?
+SAN requires very high bandwidth range of 4gbps to over 128 gbps that are often isolated over their own high speed networks.
+
+Are SANs isolated on their own networks?
+	YES
+
+What is a Wireless Local Area Network (WLAN)?
+WLAN stands for Wireless Local Area Network. It is a type of computer network that uses wireless communication to connect devices within a limited geographic area, such as a home, office, campus, or public hotspot.
+
+What is the range of a WLAN?
+WLAN is restricted to the local physical location such as a home, a building etc.
+
+How can the size of a WLAN be extended?
+They can be extended by adding additional access points within the network.
+
+How do WLANs differ from other wireless networks?
+
+WLAN (Wireless Local Area Network) differs from other wireless networks primarily in terms of its scope, coverage area, and intended usage, each serving specific communication needs in different environments.
+Section -B  Q&A Network Types

@@ -1,0 +1,26 @@
+DV128_22_PAS ON NETWORK TOOLS
+
+Q1. What is cable crimping?
+A. The Process of attaching a connector to the using using the crimper is called cable crimping.
+
+Q2. What is a modular connector?
+A.A modular connector is a type of electrical connector for cords and cables of electronic devices and appliances, such as in computer networking, telecommunication equipment, and audio headsets.
+
+Q3. What is a wifi analyzer?
+A  Wi-Fi analyzer may be hardware or a software that are specifically designed to  listen to all  signals on this wireless network, and provide with information about what frequencies are in use and which ones may be open.
+
+
+
+Q4. What is a tone generator and probe?
+A. A tone generator and a probe are tools used together to identify the cables in a large set up of cables and wires. The  tone generator is connected at one end of the cable that needs to be identified at another end. It adds a signal onto the copper wire. The  inductive probe, when taken close to the cable to which the tone generator is attached, will generate a tone that can be heard, thereby identifying the required cable.
+
+Q5. What is a punch down tool?
+A. A punch down tool is a tool used to connect wires to the punchdown block.
+
+Q6. What are cable testers?
+A. Cable testers are tools used to perform the continuity verify the connections across the cable and connectors. They are of 2 units and are connected to 2 ends of the cable, to check is each pin is connected correctly at the other end, and whether there are any missing , disconnected or cross connected to a different pin.
+
+Q7. What is a loopback plug?
+A. A loopback plug is a tool used to test the issues in the interface on the device.
+
+You would have data coming out of an interface, looping back around, and going right back into that same device. This allows you to send information out a serial port, receive that information immediately back in that serial port, and be able to compare those two values to see if they match. If they don’t match then it’s very possible you have a problem with that physical interface.

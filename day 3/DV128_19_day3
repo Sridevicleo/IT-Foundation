@@ -1,0 +1,78 @@
+DV128_19_PAS ON VLANs and VPNs
+Self-Assessment Sheet
+
+
+What is a LAN?
+LAN (Local Area Network) is a group of devices connected over the same network in a short distance physical location, such as a building, home, or distinct geographic area.
+
+
+Why might we want to segment a network into smaller pieces?
+Segmenting the network is required for security reasons and also to limit the no of devices sharing the same broadcast domain.
+
+
+What are the inefficiencies of using multiple switches for a LAN?
+Having multiple LAN switches calls for multiple configurations, networks and maintenance. It is cost inefficient and wasteful of the switches that are being unused.
+What is VLAN?
+,
+ The  virtualization of the local area network as a VLAN. This means a single physical device, a switch is configured to act as  separate switches, each functioning as individual switches with the devices still connected to their individual broadcast domains.
+ This means that we won’t need separate switches. We can instead have exactly the same functionality on a single switch by implementing and configuring VLANs for each of these individual interfaces.
+
+
+How does VLAN solve the inefficiencies of using multiple switches?
+The configurations will be only once on a single switch, thereby reducing the maintenance and is also cost efficient. The switches would be well utilised.
+
+
+How can we make a LAN more efficient and cost-effective?
+
+
+By Virtualiation of LAN. It can be done by virtually creating a separation on a single switch device and logically associate certain interfaces on the switches to multiple networks.
+
+
+
+
+How does VLAN provide separation between different networks?
+VLAN (Virtual Local Area Network) provides separation between different networks by logically segmenting a physical network into multiple virtual networks. VLANs allow network administrators to create separate broadcast domains or broadcast scopes within a single physical network infrastructure.
+
+
+
+
+
+
+What are the advantages of using VLAN over multiple switches?
+VLANs (Virtual Local Area Networks) offer several advantages over using multiple physical switches to achieve network segmentation. some of the advantages are cost efficiency, simplified management, network efficiency and more.
+How does using a single switch with VLANs help to manage and lower costs for a LAN?
+Single switch requires a single power source and reducing the interface wastage when compared to number of switches, thereby enhancing management efficiency and  lowering  operational cost.
+What is a VPN and how does it work?
+Virtual Private Network  is a combination of software and hardware that allows us to securely send information across a public network such as the internet. Everything sent over that VPN connection is automatically encrypted.
+Everything sent over a VPN connection is automatically encrypted, making it unreadable if intercepted by anyone in the middle.
+True.
+What does a VPN look like on the desktop of an operating system?
+The VPN status will show up in the task bar of MAC systems or under the wifi settings of windows systems if connected.
+
+
+The user can connect and disconnect from the VPN using this interface and may also have options to configure the VPN connection settings?
+True.
+
+Are VPNs typically hardware or software-based?
+It is a combination of both hardware and software.
+
+
+
+What is the advantage of using a VPN in a coffee shop?
+When connected to VPN, the data that is sent across the internet is encrypted and cannot be read by the middlemen, making it secure way of transmitting data, though connected to the open network in public spaces.
+
+How does the VPN concentrator handle incoming and outgoing data?
+A concentrator is a standalone device or it may be integrated into a firewall or some other multi-use device. The VPN software installed on the client’s device creates an encrypted tunnel across the open networks, the internet or any other links, to transfer the data to VPN concentrator. The VPN concentrator will receive that encrypted information. It will decrypt the data and send that information into the corporate network. Any device that needs to send information back client device will send that information to the VPN concentrator. The concentrator will encrypt that data, send it over the encrypted tunnel to the device, which will decrypt so the data can be used locally. This entire process happens behind the scenes and is automatic when you enable your VPN software.
+
+Can VPN software be installed on operating systems?
+Yes. it can be installed on the operating systems.
+
+Most modern operating systems come included with some type of VPN client.
+True.
+
+
+What is a VPN concentrator?
+A VPN concentrator is a stand alone device sitting in the middle of 2 different VPN enabled clients. This device  is responsible for encrypting and  decrypting the data  that is to be transmitted or received over the insecure network.
+
+The entire process of VPN data encryption happens behind the scenes and is automatic as soon as you enable the VPN software
+True.
