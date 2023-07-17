@@ -1,0 +1,63 @@
+DV128_30_PAS_PATA Device Cables
+Self-Assessment Sheet
+
+Q1. What is PATA?
+Ans: Parallel AT Attatchment, is a connectivity with  ribbon cable  that was used in the legacy systems to connect to the storage devices.
+
+Q2. What other names has PATA been known by?
+Ans:  IDE or Integrated Drive Electronics. This was a name created by the hard drive manufacturer Western Digital. They even had an updated version of IDE called Enhanced IDE or EIDE.
+
+
+
+Q3. The name AT Attachment comes from one of the original PCs created by _______.
+Ans. IBM
+
+
+Q4. What speeds can PATA achieve?
+Ans: The PATA speeds can  range from 16 megabytes per second through 133 megabytes per second
+
+
+Q5. What other types of drives can connect to PATA?
+Ans: Hard drives,   CD-ROMs or DVD-ROMs that have a PATA connection
+
+Q6. So although you may find motherboards and other equipment that are referring to an ATA drive or an IDE connection, today we refer to all of these as__________.
+Ans.  Parallel ATA or PATA
+
+Q7. What type of connection is on one end of the PATA cables?
+Ans:  40 pin connector for the motherboard
+
+Q8. How many 40 pin connectors are on each cable?
+Ans: 3 40 pin connects on each cable.
+ There is a connection on one end that is a 40 pin connector for the motherboard and then there are two separate 40 pin connectors later on down the ribbon cable.
+
+Q9. How is the device order different on the 80 wire cable?
+Ans:  On the 40 wire cable, the first device that you would connect is referred to as device 0 in the PATA standard. And the device connecting on the end of the cable is device one.
+These two are swapped on the 80 wire cable. Device one is the first interface on the cable and device 0 is at the end.
+
+
+Q10. What was the original PATA cable?
+Ans: The 40 wire cable was the original PATA cable.
+
+Q11. How did they decrease crosstalk between wires?
+Ans: By doubling the number of the wires in the 40 wire cable to make it 80 wire cable, while keeping the number of pins on the connectors exactly the same.This minimizes the crosstalk over these higher speeds that are used over 80 wire cables.
+
+
+Q12. How does an 80 wire cable differ from a 40 wire cable?
+Ans: The 80 wire cable has double the number of wires and it varies in the device order; where the first interface is referred to as Device 1 and the end interface is referred to as Device 0.
+
+Q13. The size of the PATA connector compared to the SATA connectors is large. (True/False)
+Ans. True.
+
+Q14. What is the purpose of the missing pin in the motherboard's PATA connector?
+Ans:Because  40 pin connector is symmetrical, the missing pin helps the to properly  align and orient the cable into the right format when we’re plugging it into that connector.
+
+Q15. What do you need to look at to understand how a PATA cable works?
+Ans: The notch built into the PTA at the end of the cable.
+
+Q16. What is the purpose of the notch on a PATA cable?
+Ans: the notch at the end of the cable is what is used to connect to the motherboard.
+
+
+
+Q17. What type of connector is used for storage devices?
+Ans:  40 pin symmetrical connector.

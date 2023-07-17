@@ -1,0 +1,65 @@
+25_SAS_568A and 568B Colors
+Self-Assessment Sheet
+
+Q1. What are the international standards for cabling?
+Ans: The international standards for cabling , ISO/IEC 11801, are the standards that provide guidelines as to use of cables in network installations.
+
+
+
+Q2. The TIA standard for cabling is the _________standard, which is the ___________________Standard.
+Ans. The TIA standard for cabling is the TIA568 standard, which is the Commercial Buildings Telecommunications Cabling Standard.
+
+
+Q3. What does TIA stand for?
+Ans. Telecommunications Industry Associations.
+
+Q4. What does the TIA 568 standard cover?
+Ans: The TIA 568 standard, among other information, also  provides information on what color wires to use on what pins of an ethernet connection. This is referred to as the pin and pair assignments of eight-conductor 100-ohm balanced twisted pair cabling. And as an abbreviation, we often just refer to this as T568A and T568B.
+
+
+Q5. What are the two standards for 8P8C connectors?
+Ans: 586A and 568B standards provide guidelines for 8P8C connectors.
+
+Q6. What are 8P8C connectors?
+Ans.  8 Position 8 Conductor connectors,  also known as RJ45 connectors, are a type of modular connector commonly used for Ethernet networking and telecommunications. The term "8P8C" stands for "8 Position, 8 Contact," referring to the eight positions or conductors and eight contacts or pins inside the connector.
+
+Q7. What is the 568A coloring scheme associated with?
+Ans:  the 568A coloring scheme is associated with horizontal cabling
+
+Q8. What is the difference between the 568A and the 568B color standards?
+Ans: The difference between 568A and 568B color standards are the order of colors.
+
+
+568A: In this standard, the wire pairs are ordered as follows:
+White/Green (Pin 1) and Green (Pin 2)
+White/Orange (Pin 3) and Blue (Pin 6)
+White/Blue (Pin 4) and Orange (Pin 5)
+White/Brown (Pin 7) and Brown (Pin 8)
+568B: In this standard, the wire pairs are ordered as follows:
+White/Orange (Pin 1) and Orange (Pin 2)
+White/Green (Pin 3) and Green (Pin 6)
+White/Blue (Pin 4) and Blue (Pin 5)
+White/Brown (Pin 7) and Brown (Pin 8)
+
+
+Q9. : What color scheme do ethernet crossover cables use?
+Ans: The ethernet crossover cables use 568A color scheme on one side and 568B color scheme on the other side of the cable.
+
+Q10. What do the 568A and 568B standards specify?
+Ans. These standards specify the color-coding scheme for the individual conductors inside the twisted pair cable
+
+Q11. What is the difference between T568A and T568B?
+Ans: The orders of colors on the pins.
+
+
+Q12. How are pins 1 and 2 different between the 568A and 568B standards?
+Ans: In 568A standard, Pins 1 and 2 has colors White/Green and solid green, where as in 568B standard, Pins 1 and 2 has White/Orange and solid Orange colors respectively.
+
+Q13. What is the best way to tell what standard is in use for an ethernet cable?
+Ans: IEEE standards.
+
+Q14. What are the colors in the A and B standard?
+Ans: Green, Blue, Orange, Brown, Green/white, Blue/white, Orange/white, Brown/white
+
+Q15. Write an example of a block that has a  different color assigned to A & B standard.
+Ans. A punch down block used in the ethernet uses A and B standards.

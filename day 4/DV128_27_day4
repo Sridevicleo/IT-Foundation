@@ -1,0 +1,72 @@
+DV128_27_PAS_On Video Cables
+Self-Assessment Sheet
+
+Q1. What does VGA stand for?
+Ans. Video Graphics Array
+
+Q2.  What is the name of the connector associated with the VGA video format?
+Ans: DB-15 connector, aka DE-15
+
+Q3. What are the PC System Design Guide Standards?
+Ans:
+The PC System Design Guide (also known as PC 97, PC 98, or PC 99) was a series of hardware and software guidelines developed by Microsoft and Intel to ensure compatibility and ease of use for personal computer systems. These guidelines aimed to set industry standards and improve the user experience by providing a common reference for PC manufacturers and component vendors.
+
+ Q4. What color is associated with VGA?
+Ans: Acc to PC systems design guide standards, the color blue is associated with VGA connector.
+
+Q5. If I am connecting a monitor using a VGA connection, do I need to have a separate audio connection?
+Ans: Yes.
+
+Q6. What happens when you extend a VGA signal beyond 5 to 10 meters?
+Ans:  The VGA signal is an analog signal. If extended beyond 5 to 10 meters, the signal degrades and  the screen becomes fuzzier making it difficult to see.
+
+
+Q7. What type of signal is a VGA signal?
+Ans: Video signals
+
+Q8. What type of connector is the VGA connector on the back of a computer?
+Ans: 15 pin connector.
+
+Q9. What type of connection is HDMI?
+Ans:  The HDMI connector or High Definition Multimedia Interface, is a digital connection that not only includes the video signal but can also incorporate audio within that same cable.
+
+Q10. What does HDMI stand for?
+Ans. High Definition Multimedia Interface
+
+Q11. What type of connector is used with HDMI?
+Ans: 19 PIN Connector.
+
+Q12. What types of video output does this video adapter support?
+Ans: HDMI, Display port and DVI.
+
+Q13. What is DisplayPort?
+Ans. A DisplayPort  is a digital standard for videos which can send packetized video and audio signals over DisplayPort cables. There’s commonly two different types of DisplayPort interfaces you might see. The standard DisplayPort interface is shown here, and there’s a smaller mini DisplayPort interface that can also be used.
+
+Q14. What are the two types of DisplayPort interfaces?
+Ans:  There’s commonly two different types of DisplayPort interfaces. The standard DisplayPort interface and  a smaller mini DisplayPort interface.
+
+
+Q15. How do you remove a DisplayPort interface?
+Ans: In a larger display port interface, to remove the display port cable, it needs to  be push down on a release mechanism to remove from the interface.
+
+16. Is DisplayPort passively compatible with HDMI?
+Ans: Yes.
+
+Q17. What type of cable is needed to connect a computer with a DisplayPort interface to a monitor with an HDMI interface?
+Ans:  A cable that has DisplayPort on one side and HDMI on the other is needed to connect a  computer with a DisplayPort interface to a monitor with an HDMI interface.
+
+
+Q18. What does DVI stand for?
+Ans: DVI stands for Digital Visual Interface.
+
+Q19. How much throughput does a single link connection support?
+Ans:  A single link connection supports 3.7 gigabits of throughput, which allows us to view definition television at 60 frames a second.
+
+Q20. What does a dual link connection allow us to view?
+Ans:  Dual link connections allow us to view HD television at 85 frames per second.
+
+Q21. What type of signals does DVI support?
+Ans: Video signals
+
+Q22. DVI is a video connection that pass any audio signals through the DVI connection. (True/False)
+Ans. False.

@@ -1,0 +1,125 @@
+DV128_23_PAS_Network Cables
+Self-Assessment Sheet
+
+Q1. What type of cable is commonly used for ethernet networks?
+Ans: Twisted pair of copper cabling.
+
+Q2. What does an ethernet cable look like inside?
+Ans:  The Ethernet cables have four pairs lof twisted copper cables inside of that cable. Those four pairs have different colors.
+Solid blue, twisted with white,
+Solid green twisted with white,
+Solid orange  twisted with white,
+And Solid brown  twisted with white.
+
+Q3. What is the purpose of twisting the wires in a pair?
+Ans: To ensure that the signals these cables carry are also constantly twisting and effectively moving away from any type of interference, as it moves through the cable.
+
+Q4. What is the purpose of having two cables?
+Ans:  The 2 cables, twisted together in pairs carry equal and opposite signals to each other. These are referred to as transmit+ and transmit_ to show that they are sending opposite signals.
+
+Q5. Why are the four pairs of wires different?
+Ans.  The four pairs of wires have different levels of  twist rates to defect interference if any.
+
+
+Q6. What is twisted pair cabling?
+Ans: Twisted pair cabling is the mechanism where  a pair of cables is twisted at a certain rate, each transmitting the opposite signals across the length of the cable.
+
+Q7. : How many different types of twisted pair cabling are there?
+Ans:  Unshielded Twisted Pair (UTP) Cabling in categories 5, category 5e, category 6 and category 6a.
+Shielded Twisted Pair (STP) Cabling in foiled twisted pair and screened twisted pair
+
+
+Q8. What do we refer to the different types of twisted pair cables as?
+Ans: Categories of cables.
+
+Q9. What is 1000BASE-T?
+Ans:
+
+Q10. : What is the maximum distance of 1000BASE-T?
+Ans: 1000BASE-T is an ethernet standard that operates at  1 gigabit per second  on twisted pair copper cabling.
+
+Q11. What type of cable is used for 1000BASE-T?
+Ans: copper cabling
+
+
+Q12. What is 10GBASE-T?
+Ans:  10GBASE-T which is a 10 gigabit per second ethernet that runs over twisted pair cabling
+
+
+Q13. What does the "E" stand for in Category 5e?
+Ans: Enhanced.
+
+Q14. What type of cabling is available to purchase today?
+Ans: Category 5e cable.
+
+Q15. What type of cabling is commonly used in existing network infrastructures?
+Ans: Category 5
+
+Q16. What type of cabling does 1000BASE-T support?
+Ans: Category 5 and category 5e
+
+
+Q17. Is there an augmented version of category 6?
+Ans:  yes. Category 6A,  which is also supported by 10GBASE-T standard.
+
+Q18. What type of cable is commonly used with cable modem networks?
+Ans: coaxial cable
+
+Q19. What is the conductor of a coaxial cable?
+Ans: wire conductor
+
+Q20. What is the most commonly used type of coax cable?
+Ans: RG6
+
+Q21. What is the construction of a coax cable?
+Ans: In,Coaxial cable, there are two or more constructions forms that share a common axis.  The wire conductor is all one single conductor running the length of that coaxial cable. Around the sire is an insulator that also runs the same direction, with metal shielding around that and a plastic jacket around the outside.
+
+Q22. What is the plenum?
+Ans: The plenum is a shared area in the  air conditioning environment where there  may be ducts that provide the cool air, but the warm air is not sent back to the air conditioning system, instead, is sent to plenum.
+
+Q23. What is the purpose of the plenum?
+Ans: Plenum acts as a shared space for air return from the air conditioning system, and to house the network cables.
+
+Q24. What type of cable should be used in a shared plenum area?
+Ans: The cables used in the plenum area should be special plenum-rated thable that has  FEP(fluorinated ethyl polymer) which is a  lowsmoke version of polyvinyl chloride, to prevent toxic fumes in case of fire accidents.
+
+Q25. What is the jacket of an ethernet cable typically made of?
+Ans: PVC (poly Vinyl Chloride)
+
+
+
+Q26. What type of cable is usually used for cable runs?
+Ans: UTP or Unshielded Twisted Pair.
+
+Q27. What is STP?
+Ans: Shielded Twisted pair.
+
+
+Q28. What type of writing is found on the outside of an ethernet cable?
+Ans: The writing on the ethernet cable gives the description of the type of cable it houses.It uses abbreviations such as U for unshielded, S for braided shielding, and an F for foil shielding this is usually written with a letter, a slash, another letter, and then TP to describe the twisted pair. If there’s braided shielding around the entire cable and foil around the pairs, then we’ll have an S for braided shielding, a slash, an F for foil shielding, and then the twisted pair at the end. If we have foil around the entire cable but nothing is shielded around the individual pairs, then it is an F slash UTP.
+
+Q29. What do the abbreviations stand for?
+Ans: Following are the written abbreviations on the cable that describe the cable details:
+U - Unshielded
+S- Braided shielding
+F - Foil Shielding
+TP - Twisted pair.
+
+
+Q30. What does S/FTP stand for?
+Ans: Shielded/Foiled Twisted Pair.
+
+Q31. What does F/UTP stand for?
+Ans: Foiled/Unshielded Twisted Pair
+
+
+Q32. What type of cable is used for direct burial?
+Ans: STP (shielded Twisted Pair)
+
+Q33. What is used to waterproof the cables?
+Ans: waterproof gel.
+
+
+Q34. What purpose does the shielding serve?
+Ans:
+The purpose of shielding in networking cables, such as twisted pair cables, is to provide protection against electromagnetic interference (EMI) and radio frequency interference (RFI).
