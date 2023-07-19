@@ -1,0 +1,82 @@
+DV128_38_PAS_On Motherboard Expansion Slots
+Self-Assessment Sheet
+
+
+Q1. What components are attached to a motherboard?
+Ans: CPU, memory, storage and expansion slots.
+
+
+Q2. What is the purpose of a motherboard?
+Ans: The motherboard acts as the central hub that interconnects and facilitates communication among the different components of a computer.
+
+Q3. What allows components on a motherboard to communicate with each other?
+Ans: A series of communication paths called a bus.
+
+Q4. What does PCI stand for?
+Ans. Peripheral Component Interconnect
+
+Q5. PCI is a standard that’s been around since ___________.
+Ans. 1994
+
+Q6. Are there different bus sizes for PCI?
+Ans: Yes, there is a 32-bit bus and a 64-bit bus
+
+Q7. What kind of communication does PCI use?
+Ans: Parallel communication
+
+Q8. Is PCI still used in modern computers?
+Ans: No, PCI can mostly be seen on legacy devices.
+
+Q9. PCI is a type of connector that you might find on _____________.
+Ans. Legacy devices.
+
+Q10. What type of expansion slots are present on the motherboard?
+Ans: 32-bit PCI expansion slot and 64-bit PCI expansion slot.
+
+Q11. What is the difference between a 32-bit and 64-bit expansion slot?
+Ans: The 64-bit bus is twice as large as the 32-bit bus. So, the 64-bit PCI slot is physically much larger than the 32-bit PCI slot. The 64-bit slot can handle larger data in 64-bit chunks and is commonly found in modern computers. 32-bit slots can transfer and process up to 32 bits of data at a time and are found in older systems, and are gradually being phased out.
+
+Q12. What voltages do the PCI expansion cards support?
+Ans: They support 3.3V and 5V of power.
+
+Q13. Everything that’s on the back of this card has extra contacts that designate the 64-bit width of this bus. (True/False?
+Ans. True
+
+Q14. What indicates that the card is a 64-bit card?
+Ans: It has a 64-bit key and additional contacts on the back of the card.
+
+Q15. What is the key in the adapter used for?
+Ans: It shows that 3.3V is being used.
+
+Q16. How do we install the card?
+Ans: The card is put right on the top of the PCI interface and is gently pressed down so that all of the contacts go directly into the slot itself on the motherboard.
+
+Q17. What replaces the PCI bus on newer computers?
+Ans: PCI Express bus
+
+Q18. What type of connection does PCI Express use?
+Ans: Serial connection
+
+Q19. What is the communication path used by PCI Express devices?
+Ans:  PCI Express “lane” is used.
+
+Q20. How many full-duplex lanes are available on a PCI express bus?
+Ans: One, two, four, eight, sixteen or thirty-two full duplex lanes.
+
+Q21. How can we increase the bandwidth between the two devices?
+Ans: By using an expansion slot that has more lanes.
+
+Q22. What type of expansion slots are on the motherboard?
+Ans: PCI slots and PCI Express slots.
+
+Q23. What does a PCI express adapter card look like?
+Ans: PCI express adapter cards look very similar to the PCI, but the slots and the number of contacts on the card are very different from a PCI adapter. Many PCI Express cards also have hooks at the end that help lock the card into the slot.
+
+Q24. How do you install a PCI express adapter?
+Ans: The hook is put into the adapter slot first and the adapter is then pushed down very gently to slide the rest of the card down into the adapter slot. Make sure that everything is lined up properly with the card and don’t push down too hard.
+
+Q25. What should you do if the card is not installed?
+Ans: If the card is not installed, it should be pulled back out and the different settings on the card and the slot need to be checked, after which installation can be tried again.
+
+Q26. What is needed to ensure a card slides into a slot easily?
+Ans: The proper alignment of the card with the slot needs to be ensured for the card to slide into the slot easily, after which it can be locked in place with the screw connections on the case.

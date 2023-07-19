@@ -1,0 +1,155 @@
+DV128_35_SAS On Storage Devices
+Self-Assessment Sheet
+Q1. What is a hard drive?
+Ans: Hard drive is an external storage device.
+Q2. A hard drive consists of spinning _____________.
+Ans. Magnet platters.
+
+Q3. Why are hard drives referred to as “non-volatile”?
+Ans: They are referred to as non-volatile because they do not lose information even when the there is no power supply.
+
+Q4. Why do we refer to access on a hard drive as “random access.”?
+Ans. It is called random access because we  can access information from the drive stored at any point, without having to rewind or forward through the drive.
+
+Q5. What are the components inside a hard drive?
+Ans: There are lot of moving parts inside the hard drive.
+ There are  spinning magnetic platters,
+actuator arms  that move back and forth to find the data on the drive.
+
+Q6. What is a limitation of hard drives?
+Ans: The limitation of the hard drive is the speed at which the data can be stored and retrieved from the hard drive depends on the moving mechanical parts in the harddrive.
+
+Q7. What is the eventual outcome of a hard drive?
+Ans: Because there are lot of moving mechanical parts in the harddrive, they are bound to eventually break and fail.
+
+Q8. How does the data get stored and retrieved?
+Ans. The data is written, stored on and retrieved from  the magnetic platters, rotating around a spindle. This is done by the arm with a small head at the very end to very precisely locate, retrieve and write data onto the spinning platters. This arm movement is controlled by the actuator.
+
+Q9. What affects the speed of data retrieval?
+Ans: The speed at which the magnetic disc spins determines the speed of data retrieval. The faster they spin, the faster is the data retrieved.
+
+Q10. If the drive is spinning faster, for example, at 15,000 rotations per minute, then the rotational latency lowers to about ________________.
+
+Ans. 2ms
+
+Q11. What does it mean if a common rotational speed for a low-end hard drive is 5,400 rotations per minute. And that gives you a rotational latency of about 5 and 1/2 milliseconds?
+Ans. This means as the platter is spinning around, we have to wait for the data to eventually make its way back to the head so that you can either read or write that data.
+
+
+Q12. What happens if the drive is spinning faster?
+Ans:  If the drive is spinning faster, for example, at 15,000 rotations per minute, then the rotational latency lowers to about 2 milliseconds. So the faster you spin this drive, the faster you’ll be able to read or write the data that’s on that drive.
+
+Q13. What is the size of the hard drive in a larger desktop computer?
+Ans:  3-and-1/2 inch drives
+
+
+Q14. What is a solid-state drive?
+Ans. Solid state drive (SSD) is a storage device that is smaller than the hardrive and is non-volatile. It has higher performance in terms of speed and has no moving mechanical parts making it sturdier than HDD.
+
+Q15. Why do we use non- volatile memory in SSD?
+Ans.  so that data remains on these SSDs even when the system has no power supply.
+
+Q16. What is one significant advantage of an SSD?
+Ans: It is much faster than the traditional HDD interms of speed, as there are no RPM’s to store or retrieve data or the amount of data that we can transfer as these platters are spinning around. Instead with an SSD, we can access data directly and retrieve it at extremely high rates of speed.
+
+
+Q17. What type of interface is often used for hard drives?
+Ans: SATA interface
+
+Q18. What is the advantage of having a laptop or mobile device?
+Ans: They are portable.
+
+Q19. How does SATA limit the size of mobile devices?
+Ans: With SATA, the size of the mobile devices depended and got  limited by the size of a spinning drive. And the 3-and-1/2 or 2-and-1/2 inch SATA drives took up quite a bit of room inside the mobile devices.
+
+
+Q20. What is mSATA?
+Ans: mini-SATA.
+
+
+Q21. What replaced the mSATA interface?
+Ans: a smaller M.2 interface replaced mSATA interface.
+
+
+Q22. What is an example of a device that contains an mSATA drive?
+Ans: mSATA drives were installed in laptops.
+
+Q23. How does the mSATA drive help reduce the overall size of devices?
+Ans:  By placing the  SSD memory on a much smaller case, instead of having a spinning drive inside of a case.
+
+
+Q24. AHCI stands for the__________________.
+Ans. Advanced Host Controller Interface.
+
+Q25. Why do we use AHCI?
+Ans. AHCI is a protocol used by SATA to move data from the storage drive into the memory of your system
+
+
+Q26. _____________uses a protocol known as AHCI.
+Ans. SATA
+
+Q27. What is NVMe?
+Ans: NVMe islands for Non Volatile Memory express. This was specifically designed to match the faster throughput of SSD’s, that was limited by the use of SATA interface.
+
+Q28. What is the throughput of SATA revision 3?
+Ans: up to 600 megabytes per second
+
+Q29. What does lower latency and higher throughput mean?
+Ans: Since SSD’s are capable of higher throughputs than supported by the SATA interface, the NVMe was designed to specifically exploit this capability that used M.2 interface. With the use of this interface, the communication with the high speed SSD’s reduced latency and produced higher throughput enhancing its capabilities.
+
+Q30. What are the advantages of using M.2 instead of SATA?
+Ans:
+  The advantages with using M.2 instead of using a traditional SATA connection are -
+ It is a much smaller form factor than SATA.
+2.This has a single connection to the motherboard.
+There’s no external power that’s required. It simply pulls the power from the motherboard itself.
+M.2 interface can also directly connect to the PCI Express bus that is in your computer, providing much higher throughput.
+
+Q31. What kind of interface is M.2?
+Ans:  4 PCIe interface.
+
+
+Q32. What type of throughput is typically seen when using an NVMe with an SSD through a by 4 PCIe interface?
+Ans: 4 gigabytes per second throughput
+
+Q33. What are the different keys in an M.2 interface?
+Ans: There are different keys in M.2 interface. The B key, the M key. And some M.2 interfaces will support the B and the M key.
+
+
+Q34. What should you do to ensure the best possible throughput for an M.2-based SSD?
+Ans: Ensure that the system can support NVMe.
+
+Q35. How do I install an M.2 drive on my motherboard?
+Ans: We should  first find the M.2 interface on the motherboard and slide the SSD into that slot, then fasten the SSD to the drive using a screw that’s on the other end of the SSD.
+
+
+Q36. What does EEPROM stand for?
+Ans EEPROM stands for electrically erasable programmable read-only memory.
+
+Q37. EEPROM is a type of _________ memory.
+Ans. Read only memory.
+
+Q38. What are the advantages of flash memory?
+Ans: It is a non-volatile form of storage, which means it can retain information stored in it even when disconnected from power supply.
+
+Q39. What is one concern with flash memory?
+Ans: The concern with flash memory is that it has a limit to the number of times information can be written to that drive. Once  the threshold is hit,, it allows us to only  read the information that is on that flash drive, but  would not allow us to rewrite or change any of that information in the future.
+
+
+Q40. Is it recommended to use flash drives as archival storage?
+Ans: No. Because, these are very small storage devices, and they can be easily lost or damaged.
+
+Q41. What type of flash memory do cameras and other mobile devices use?
+Ans: SD type of flash memory.
+
+Q42. What type of storage is becoming increasingly difficult to find on our systems?
+Ans: optical drive. (CD-ROM, DVD-ROM)
+
+Q43. What does an optical drive use to read small pits or different colors on an optical disk?
+Ans: Laser.
+
+Q44. What are some of the most popular formats of optical drives?
+Ans: CD-ROMs, DVD-ROMs and Blu-ray
+
+Q45. Are there external drives available for internal laptop or desktop use?
+Ans: Yes.

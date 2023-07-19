@@ -1,0 +1,68 @@
+DV128_42_PAS_On CPU Features
+Self-Assessment Sheet
+
+Q1. What is the main difference between 32-bit and 64-bit architectures?
+Ans:The difference between the 32-bit and 64 bit architectures lies in terms of speed and memory.
+
+Q2. A 32-bit processor can access__________ gigabytes of information, whereas a 64-bit processor can access_____________billion gigabytes of information.
+Ans.  A 32-bit processor can access 4 gigabytes of information, whereas a 64-bit processor can access 17 billion gigabytes of information.
+
+Q3. How can you find the system type of your Windows system?
+Ans: in Control panel under system settings.
+
+Q4. What type of hardware drivers do you need if you are using a 32-bit operating system?
+Ans: The hardware drivers that are installed must match the type of operating system in use. For a 32-bit operating system, we’ll need to install 32-bit hardware drivers and for a  a 64-bit operating system, we’ll need to install 64-bit hardware driver.
+
+Q5. What is x86 software?
+Ans: 32-bit software  is abbreviated as x86 software
+
+Q6. How can you tell if applications have been written for a 64-bit operating system or a 32-bit operating system?
+Ans: We can get this information based on the installed drives. If the application has been written for   32-bit OS, it  will installed under Program Files x86 and the  64-bit apps are simply installed under Program Files.
+
+Q7. If you're running a 64-bit operating system, you can only run 64-bit applications, but you cannot run 32-bit applications. (True/False?
+Ans. False. It can run 32-bit applications as well.
+
+Q8. What is the Advanced Risk Machine?
+Ans: Advanced Risk Machine (ARM) is an another family of Operating System, whose architecture was developed by ARM LTd.
+
+Q9. What are the benefits of the ARM architecture?
+Ans:  The benefits of  ARM architecture is that it is  extremely efficient and fast in processing, consumes less power and  creates less heat. It is considered a  perfect for our mobile devices.
+
+Q10. What types of devices use ARM?
+Ans: Mobile devices and IoT devices.
+
+
+Q11. We often refer to a CPU, or a Central Processing Unit, as a ________________.
+Ans .Single Monolithic device.
+
+Q12. The main processing of a CPU occurs on the _____________.
+Ans.Processor  Core
+
+Q13. How many cores are in modern CPUs?
+Ans: There can be multi cores in the modern single physical CPU package. These are referred to as dual core, quad core, or simply multi-core.
+
+Q14. What is not unusual for multiple cores in a CPU?
+Ans: Multiple cores in CPU may have single or multiple caches.
+
+Q15. If you start monitoring the amount of processing occurring on your CPU,you might see such as the _______________.
+Ans. images of CPU processing in wave pattern that shows different processes that are occurring.
+
+
+Q16. What does HTT stand for?
+Ans. Hyper Threading Technology.
+
+Q17. What is Hyper-Threading Technology?
+Ans:  Hyper Threading Technology is the technology that  increases the throughput of the processes going through the CPU by  around 15% to 30%. In order to have this, both the CPU and OS should support hyper-threading. And if you bring up some CPU monitoring, you’ll very quickly see the results of this hyper-threading technology, that can be seen as  different processes that are occurring between what seems to be two different CPUs. But in reality, this is a single CPU core.
+
+
+Q18. What is the impact of hyper-threading?
+Ans: Increased throughput  by 15% to 30%of processes going through the CPU.
+
+Q19. Does a modern operating system support hyper-threading?
+Ans: Yes.
+
+Q20. What kind of hardware is needed to virtualize additional operating systems?
+Ans: The hardware requirements for virtualizing additional operating systems depend on the virtualization software you plan to use and the specific operating systems you want to run.
+
+Q21. How can I check if my processor supports Intel Virtualization Technology (VT) or AMD Virtualization (AMD-V)?
+Ans: By checking the hardware documentation and your BIOS

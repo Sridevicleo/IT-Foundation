@@ -1,0 +1,74 @@
+DV128_39_PAS_On Motherboard Compatibility
+Self-Assessment Sheet
+
+Q1. What is the first decision you need to make while building a computer?
+Ans: To choose the motherboard whether intel based or AMD based.
+
+Q2. What factors should you consider when choosing a motherboard and CPU?
+Ans: The important factor to consider while choosing the mother board and cpu is that all the other systems in the computer will be based on this decision. We should consider the cost and performance factors and base our decision on them.
+
+Q3. Is it possible to switch between an Intel CPU and an AMD CPU?
+Ans: no
+
+Q4. What are the differences between AMD and Intel CPUs?
+Ans: They are different in terms of design, operations ad even sockets are specific and unique to these manufacturers.
+
+Q5. What should be checked when selecting a CPU?
+Ans: The specifications on the motherboard; to see if the system offerings meets our requirements.
+
+Q6. How do you install a CPU?
+Ans: There’s a cover on the motherboard that holds the CPU in place. That cover should be lifted, the CPU placed in the socket, and the cover should be closed to lock it in place.
+
+Q7. Is there a different installation process for server CPUs?
+Ans: The installation process for CPUs on the server is no different, except that it might have multiple CPU sockets to be installed for higher load.
+
+Q8. How many slots are available on a server motherboard?
+Ans: There will be atleast 4 memory slots available on server motherboard.
+
+Q9. What type of device are server motherboards typically found in?
+Ans: Rack-mounted devices.
+
+Q10. What is typically installed in a rack-mounted device?
+Ans: Server motherboards and a power supply that’s designed to fit into this smaller form factor.
+
+Q11. What features are present in the older server motherboard?
+
+Ans: An older server motherboard may have two separate CPUs, has some expansion slots and four memory slots.
+
+Q12. What features are present in the newer motherboard?
+Ans: A newer server motherboard  may have two separate CPUs, has some expansion slots and six memory slots.
+
+
+Q13. What type of computer system do people generally have?
+Ans: laptops
+
+Q14. How many memory slots are usually available for additional RAM?
+Ans: 2 or 4 slots
+
+Q15. Are there usually expansion slots available?
+Ans: yes.
+
+Q16. What type of motherboard might be used for a very small form factor desktop system?
+Ans:
+For a very small form factor desktop system, a Mini-ITX motherboard is a suitable choice. Mini-ITX is the smallest standard form factor for motherboards, designed to fit into compact and space-constrained PC cases.
+
+
+Q17. What features are important in a laptop motherboard?
+Ans: The laptop  motherboards should have something that is as portable as possible but also something that does not use a lot of power and can run for a very long time from battery.  So the motherboard you would have in a laptop tend to be very small and very light. The CPUs in a laptop are not necessarily designed for speed but instead for power usage and efficiency.
+
+Q18. What is the focus of laptop CPUs?
+Ans: Power usage and efficiency.
+
+Q19. What can one do with a desktop system that cannot be done with a laptop?
+Ans: The desktop systems are flexible to support  for memory upgrades, changes to the CPU, or modifying or adding on any additional features to the existing motherboard.
+While the laptop may not support the same due to its small form factor and the proprietary restrictions does not allow for modular replacements with another make or model.
+
+
+Q20. How does laptop motherboard replacement differ from desktop motherboard replacement?
+Ans: While the motherboards in desktops may be replaced with another, the laptops do not allow this. The motherboards will have to be replaced  only with the one that was specifically built for the made and model of the laptop.
+
+Q21. What do you have to do if you need to replace the motherboard in your Laptop?
+Ans: If you need to replace the motherboard, you have to replace it with the exact type of motherboard design for that laptop. And since your interfaces, your CPU, your memory, and other features are part of that system board, if any part of that happens to stop working, you’ve got to replace the entire motherboard.
+
+Q22. Since your interfaces, your CPU, your memory, and other features are part of that system board, if any part of that happens to stop working, you’ve got to replace the entire motherboard. (True/False)
+Ans. TRUE for laptops.

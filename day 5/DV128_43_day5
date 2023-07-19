@@ -1,0 +1,92 @@
+DV128_43_PAS_On Expansion Cards
+Self-Assessment Sheet
+
+Q1. What is one way to extend and add to the capabilities of a system?
+Ans: By adding additional hardware to the system through the use of expansion cards.
+
+Q2. How do you install an expansion card?
+Ans: The expansion cards may be installed by removing the top of the system case, find an available expansion slot, and place the card into that empty slot.
+The card should be gently pushed in place, making sure the holes/ keys on the card match the keys on the slot. When matched the card pay be pushed down into the slot and locked in place, ready to be used by the system.
+
+Q3. What type of card might be installed?
+Ans: Sound card is one of the expansion card that might be installed for the high audio output.
+
+Q4. What might the sound card provide?
+Ans: High quality audio output. It might also allow you to record or provide input into the computer
+
+Q5. What kind of audio outputs does this sound card provide?
+Ans: high quality audio output.
+
+Q6. What should I do to check what other options I have with my sound card?
+Ans: The documentation for the sound card should be checked to see other options and capabilities that the sound card amy provide.
+
+Q7. Do I need an external video card if I only need basic video capabilities?
+Ans: No. Because, many CPUs already have video technology built into the CPU package itself.
+
+Q8. What is a discrete graphics card?
+Ans: Discrete graphics card is an external video adapter card. This is  different from the integrated GPU or integrated graphics that are in your CPU. This is usually required  when we need  higher performance video graphics than what’s available in an individual CPU.
+
+Q9. What types of interfaces are typically found on the back of a computer with an integrated graphics card?
+Ans: At the back of the computer with integrated graphics card, there will be interface to  plug in a VGA connection, a DVI, or an HDMI connection. These additional interfaces  will be directly connected to that video card.
+
+
+Q10. How do we use the higher-end capabilities of this card?
+Ans: To be able to use these higher-end capabilities of this card, we need to plug the monitor into one of these interfaces that are directly connected to this video card.
+If plugged into the interfaces on your motherboard, then it gets connected to the integrated graphics.
+we would need to plug directly into this card to be able to take advantage of the discrete graphics processor. The discrete graphics cards are usually output devices.
+
+
+
+Q11. What do you need to take advantage of a discrete graphics processor?
+Ans: we would need to plug directly into this card to be able to take advantage of the discrete graphics processor.
+
+Q12. How do you provide live streaming?
+Ans: To provide live streaming,  we would need a capture card, which acts as video input into our computer. Capture card is an external card to receive that video signal.
+
+
+Q13. What type of interface does the video capture card have?
+Ans: PCI Express interface. This card also supports high-end video capture over an SDI interface. That stands for Serial Digital Interface.
+
+Q14. What type of video input does the card support?
+Ans:  Video input from HDMI interface from a camera or any other video source, or video input from the SDI interface.
+
+Q15. SDI stands for __________________.
+Ans. Serial Digital Interface.
+
+Q16. How is the SDI brought in?
+Ans: Through Coaxial cable.
+
+Q17. Does a motherboard come with a wired ethernet connection?
+Ans: Yes. IMotherboards come with a wired ethernet connection integrated into the motherboard itself.
+
+Q18. What is a Network Interface Card?
+Ans:  The network interface card (NIC) , is the card that is installed to get additional network interface or whe the built-in ethernet interface is non-operational.
+This is  commonly seen with servers or routers or other specialty devices that need multiple interface adapters on the same physical device.
+
+
+Q19. When might you need to add an additional Network Interface Card?
+Ans: In order to add an additional NIC, we should ensure the card is compatible with the system
+
+Q20. What is the process for installing a network interface card?
+Ans: Installing a network interface card is exactly the same as installing any other device into an expansion slot. You find a slot that’s available and then push the adapter card into that available slot.
+
+Q21. What should you do before purchasing an adapter card?
+Ans: Ensure it is compatible with the system.  Check your motherboard documentation and determine how many different slots are available and what those slots happen to be. From there you can look at the specifications of the adapter card and make sure that the adapter card matches the specifications of your motherboard.
+
+
+Q22. What type of software do we need to use the adapter card?
+Ans: The adapter card may have  specific supporting software that may be required and installed. There might also be minimum requirements for the operating system for effectively installing and using the adapter card.
+
+Q23. Why should I download the latest version of a device driver?
+Ans: The drivers that might ship with the hardware are almost always out of date. So, it’s a best practice to check the manufacturer’s website and download the latest version of the device driver.
+
+Q24.How do I install a driver?
+Ans: The manufacturers provide the customised installation executables.
+Sometimes this driver installation is done through the Windows Device Manager.
+
+Q25. What do you do when you need to install a new device driver?
+Ans:  Use the Windows Device Manager to step through the process of adding that device driver.
+
+
+Q26. How do you check if the operating system is using the new hardware properly?
+Ans: By checking the device manager to  verify the status of that system to confirm that the operating system is using that new hardware properly.
