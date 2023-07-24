@@ -1,0 +1,143 @@
+DV128_46_PAS On Multifunction Devices
+Self-Assessment Sheet
+
+
+Q1. What is a multifunction device?
+Ans: A Multi-Function device, MFD,   is an output device that can perform many different functions, including printing, scanning, fax, network connectivity, phone line connectivity and printing from the web.
+
+Q2. A multifunction device may not be the small device that you might buy from an office supply store and install at your home. (True/False?
+Ans. True.
+
+Q3. __________________will need to be installed in a particular area with the proper amount of power, network connectivity, and accessibility so that everybody can gain access to the system.
+Ans. The multi function device.
+
+Q4.What do you need to use a multifunction device?
+Ans: There should be the corresponding driver installed in the operating system to print, fax, scan, or perform any of these other functions on that multifunction device.
+
+Q5. What should you do when selecting a print driver?
+Ans: We should select the driver compatible with the operating system and and supporting the right version.
+
+Q6. What does PCL stand for?
+Ans. Printer Command Language.
+
+Q7. PCL was created by _______________ for their _____________.
+Ans. PCL was created by Hewlett-Packard for their laser printers
+
+Q8. PostScript that was created by ______________.
+Ans. PostScript that was created by Adobe Systems.
+
+Q9. What is PostScript?
+Ans. PostScript a printer language that was originally designed for very high-end printing and printing that was done in print houses.
+
+Q10. What type of driver should be used for a PCL or PCL-configured printer?
+Ans: If it’s a PCL or PCL-configured printer, then we shoulduse the PCL driver.
+
+Q11. If it’s configured to work as a PostScript printer, the driver you should be using should clearly be a___________________.
+Ans. PosrScript driver.
+
+Q12. One of the very common ways to connect to a printer is using ___________________.
+Ans. Universal Serial Bus(USB)
+
+Q13. What are two ways to connect to a printer?
+Ans.  The 2 ways to connect to the printer are:
+By using  the USB Type B connector. You would use Type A on your computer, and it connects to the printer with a Type B interface.
+ By using RJ45 connector, which is commonly connected to an Ethernet network.
+
+Q14. _____________ allows you to print across the network, and you wouldn’t need to have any type of USB connectivity.
+Ans.  RJ45 connected printer.
+
+Q15. What options are available on the back of a printer?
+Ans: a USB Type B connection and an Ethernet connection.
+
+Q16. How can a user connect a printer to their environment?
+Ans:  By using bluetooth.
+
+Q17. What is 802.11?
+Ans:  802.11,  is the wireless network that is  commonly used with an access point. We refer to the use of 802.11 and an access point as infrastructure mode, so that allows everyone in the  local area use this access point to be able to communicate.
+
+Q18. What are the two ways to connect to a printer over a wireless connection?
+Ans: Bluetooth and via access point of 802.11.
+
+Q19. You could also configure wireless communication to be a one-to-one relationship, using _________________.
+Ans. 802.11 ad hoc mode.
+ This means there’s no access point that would be used for communication. Instead, a single device is able to communicate directly to that individual multifunction device.
+
+
+Q20. What should we do next after installing the multifunction device wired or wirelessly?
+Ans.  Share the printer access to others..
+
+Q21. How can I allow others to use printers in Windows?
+Ans: By creating a printer share. This allows us to physically connect the printer to the computer allow everyone else to print to this printer through the connected computer device.
+
+Q22. What is the Properties window of a Brother printer?
+Ans:  Anybody on the network who would like to use the  printer, would simply look for the printer’s name, and send their print jobs directly to this printer share, provided the Printer share has been created.
+
+Q23. How can users access a shared printer?
+Ans: By looking for the printer name when it has been set to share. However this is effective only when the computer connected to the printer is powered on.
+
+Q24. What is the challenge with a printer shared on someone’s computer?
+Ans: The challenge with the printer shared on someone’s computer is that when the computer to which the printer is connected to and on which the printer share is created, if powered off, everyone will lose access to the printer.
+
+Q25. What is a print server?
+Ans:  Print server is a  software that’s running on the printer itself, which allows people to print directly to the printer without needing a third person’s computer in the middle. Jobs are queued directly on the printer.
+
+Q26. How can jobs be managed on a printer?
+Ans: Jobs are queued directly on the printer. And  managing, deleting, or adding any jobs, can be done from the  Management page of the printer itself. To provide this management, there’s usually a web-based front end on the printer itself, or there might be an executable you install in your operating system to be able to manage it through a client.
+
+
+Q27. What is the Duplex option?
+Ans: Duplex option is one of the printing options that allows printing on both sides of the page.
+
+Q28. Are all printers capable of Duplex printing?
+Ans: No.
+
+Q29. What is the difference between Portrait and Landscape mode?
+Ans:  In Portrait mode, the page is longer from top to bottom. And in Landscape mode, it’s turned on its side and is longer from left to right.
+
+
+Q30. What options may be available on larger printers?
+Ans: The  larger printers, that may have several trays with different paper types in each tray, we may have the option to choose a particular tray to print from.It will pull that paper from the specified tray to do the printing job.
+
+
+
+Q31. What types of paper might be in different trays?
+Ans: plain paper in one tray, a letterhead in another, and a legal-size paper in a third etc.
+
+Q32. How do you choose the tray you'd like to use?
+Ans:  We can select the tray in the print dialog before executing the print job.
+
+Q33. How can you determine what paper is in each printer tray?
+Ans:  The types of papers in each printer tray will have to be configured by the administrator. These configurations may be seen under printer properties to see the contents of each tray..
+
+Q34. What options are available on mini printers?
+Ans: The mini printers  allows us to set the quality of the printout  such as lower or high quality setting, output resolutions, color / grey scale, or color saving mode.
+
+Q35. What is the benefit of using a color-saving mode?
+Ans: The color saving mode will print in color, but it won’t use as much color as it might need.
+
+
+Q36. Why might we want to limit how much toner or ink we print?
+Ans: Because the ink and the toner is relatively expensive. And if we can minimize the use of that toner, then we can save money in the long run.
+
+Q37. How can we configure a printer with security settings to limit access to ink or toner?
+Ans:  We can configure the security settings in the  Printer properties under the Security tab. We  can specify individual users or group of users and then determine what access they might have to the printer. This printer gives you the option to allow or deny access to print, manage the printer, manage documents, and create special permissions.
+
+
+
+Q38. What are some ways to secure printing?
+Ans: By authenticating the ID badge.
+
+Q39. What are some logs that might be used to help troubleshoot printer problems?
+Ans: Audit logs. Audit logs allows the administrator to see exactly who printed to the printer, how many pages were printed, and what type of print was used.
+
+Q40. What are Secured Prints?
+Ans:   Secured Print is a feature built into Windows where you can create a personal identification number to protect any printing. This would be configured in the Print settings on your Windows device. You would define a personal identification number specific to you. And once you’ve sent your print jobs, nothing will print until you arrive at the printer and put your personal identification number into the console of the printer itself, at which time, it will print your output.
+
+
+Q41. What can multifunction devices do?
+Ans: Our multifunction devices are not only good at providing us with printed output, but we’re also able to take these printed pages and use them as input by using the flatbed scanner that’s built into the multifunction device. The scanner allows the function device to read the information that’s on the page and then save that information as a digital file. This is often integrated with an automatic document feeder. So you could take a large stack of papers, slide it into the scanner, and then have it scan each page individually, one by one, without you having to manually change the pages.
+With most multifunction devices, you could decide what happens with that scanned image. It might be a scan that goes directly to your email or someone else’s email. We could also scan to a particular folder that may be on a file server. With Windows, this is done using SMB, or Server Message Block. Or you could send all of this to a Microsoft share that may be on a centralized server. And many. New multifunction devices can take that scanned image and scan it to the cloud. It might move it to a Google Drive account, a Dropbox account, or any other shared folder that you might have in the cloud.
+
+
+Q42. What can you do with a scanned image from a multifunction device?
+Ans: The scanned images may be sent as an email, or uploaded to cloud and moved into a shared folders.

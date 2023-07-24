@@ -1,0 +1,97 @@
+DV128_57_PAS_Cloud Characteristics
+Self-Assessment Sheet
+
+Q1. What are internal clouds?
+Ans Internal cloud means  creating resources on your own internal network that will be used for these application deployments. Setting up on own data centers and equipments for private use.
+
+Q2. What does building your own cloud means?
+Ans. Building own cloud means setting up of own data centers, with all the equipments  on own internal network.
+
+Q3. What does using an external cloud mean?
+Ans. Using external cloud means,using of public cloud services, sharing of resources that are available on this very large public cloud, and most of this is usually stored in the cloud providers’ data centers, usually multiple data centers around the world.
+
+
+Q4. If you’re using an external cloud, then you’re using time that might be on an _____________________.?
+
+Ans.  Amazon, a Microsoft, or some other third-party cloud provider systems.
+
+Q5. The cost for this external cloud can vary based on the _____________
+Ans. cloud service provider.
+
+Q6. What is an external cloud?
+Ans: External cloud are the third party Public cloud services that are shared by the service provider at a cost.
+
+Q7. What type of cost is associated with an external cloud?
+Ans: There may be a large upfront cost for accessing the services or the there may be pay-as-you-go payment pattern that allows the user to pay for services as used.
+
+Q8. Is there a low entry cost for an external cloud?
+Ans: Yes.
+
+Q9. What kind of cost do some platforms use?
+Ans: Fixed cost for everything that we might be using.
+
+Q10. What is an example of a non-metered cloud service?
+Ans: Dropbox and google drive are examples of non-metered cloud service.
+
+
+Q11. What is one of the advantages of having a cloud-based application instance?
+Ans. One of the advantages of having a cloud-based application instance is that you’re able to create more instances as the load increases and decrease the number of instances as the load decreases.This process of  building out of additional capacity or removing any excess capacity is all seamless to the end user. They have no idea that these changes are done behind the scenes. We refer to this flexibility as “rapid elasticity.”
+
+
+Q12. What is rapid elasticity?
+Ans. The process of creating or removing the number of instances as and when the load increases or decreases, done seamlessly is called Rapid Elasticity.
+
+Q13. What does the cloud offer us?
+Ans: Redundancy and availability with backups.
+
+
+Q14. What does this statement mean “Cloud-based platforms also tend to be highly available”?
+Ans. Cloud-based platforms tend to be highly available. There is redundancy built into the cloud-based platform, so in case of power loss or server faults, or infrastructure fault,  there’s always a way to keep everything up and running, because they’ve already created a redundant environment.
+
+Q15. What might happen if the power goes out at the data center?
+Ans: They will provide a power backup with generators to keep the infrastructure up and running.
+
+Q16. What are some ways to provide redundancy in a data center?
+Ans: By having backup generators and multiple network lines by creating a redundant environment.
+
+Q17. How can you ensure data remains in sync when deploying application instances to different cloud providers in different countries?
+Ans: When multiple instances are deployed in different  data centres across various countries, many  cloud providers have different methods for file synchronization to ensure that all the data is synchronized between all of the data centres.
+
+
+Q18. What is Desktop as a Service?
+Ans:  Desktop as a Service DaaS, is a cloud service where the  Windows desktop running in the cloud can be accessed from any of the computing devices. Such as tablet, a phone, or some other type of computer that allows you to gain access to your desktop that’s running in the cloud.
+The applications that are running in this cloud-based service are running as a Virtual Desktop Infrastructure, or VDI.
+
+
+Q19. The applications that are running in this cloud-based service are running as a?
+
+Ans. Virtual Desktop Infrastructure (VDI)
+
+Q20. What does VDI stand for?
+Ans. Virtual Desktop Infrastructure.
+
+Q21. What do you need to access your desktop from anywhere?
+Ans: DaaS (Desktop as a Service) cloud service.
+
+Q22. What are we most likely seeing on the tablet we are using to access this Windows desktop?
+Ans: With DaaS, when we access the desktop on the tablet, we will most likely be seeing the screenshare of the remote  remote desktop view of that Windows environment.
+
+Q23. How important is the network connection if we are using Desktop as a Service?
+Ans: Having a good network connection is very important as the remote share is happening over a network.
+
+
+Q24. What technology does Desktop as a Service use?
+Ans: It uses  remote desktop technology to send a minimal amount of information between the client and the desktop
+
+Q25. You need that _________________in order to take advantage of Desktop as a Service.
+Ans. Good network connection.
+
+Q26. What are Amazon’s services called?
+Ans. Workspaces.
+
+
+Q27. How can one create a Windows workspace using Desktop as a Service?
+Ans:
+
+Q28. What does Amazon’s Desktop as a service allow users?
+Ans. It allows the users to acces the desktop over windows platform, which is actually running on amazon cloud.
